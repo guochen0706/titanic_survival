@@ -1,5 +1,3 @@
-# udacity_data_analysis_nanodegree
-
 ##There are 6 projects in this nanodegree.
 ###1st. Investigate Titanic Dataset (Python)
 ###2nd. Wrangle OpenStreetMap Data (Python, SQLite)
