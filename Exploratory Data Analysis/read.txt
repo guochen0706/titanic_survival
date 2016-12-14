@@ -1,4 +1,4 @@
-##These files are all created from R code using ggplot2 library, and output as html files.
+These files are all created from R code using ggplot2 library, and output as html files.
 
 To preview the html files, copy and paste following urls to your browser:
 One variable:
